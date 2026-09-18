@@ -1,0 +1,179 @@
+{
+  "personal": {
+    "name": "Farouk Bouhaka",
+    "initials": "FB",
+    "title": "Fullstack Java Developer & Software Engineer",
+    "tagline": "I design and build reliable, scalable backend systems and full-stack web applications with Java and Spring.",
+    "bio": "Software engineer with 4+ years of experience building enterprise platforms, ERP modules, and secure REST APIs for government and private-sector clients in Algeria. Comfortable across the stack — Java 18 / Spring Boot on the backend, Angular and React (TS) on the frontend — with a focus on scalable, well-tested, production-ready systems.",
+    "location": "Algiers, Algeria",
+    "email": "faroukbouhaka@gmail.com",
+    "phone": "+213 542 82 55 25",
+    "availableForWork": true,
+    "resumeUrl": "/resume.pdf",
+    "social": {
+      "github": "https://github.com/bhkfaouk",
+      "linkedin": "",
+      "twitter": "",
+      "website": "https://bhkfaouk.github.io/portfolio/"
+    }
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Java", "JavaScript", "TypeScript", "SQL", "PHP"]
+    },
+    {
+      "category": "Frontend",
+      "items": ["Angular", "React (TS)", "JSF", "PrimeFaces", "JSP", "AJAX", "HTML", "CSS", "Bootstrap", "jQuery"]
+    },
+    {
+      "category": "Backend & Frameworks",
+      "items": ["Spring Boot", "Spring Security (OAuth2)", "Spring Batch", "Java EE", "JPA", "Hibernate", "REST APIs", "Keycloak"]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "MySQL", "Oracle", "PL/SQL", "Firebase"]
+    },
+    {
+      "category": "DevOps & Tools",
+      "items": ["Docker", "Jenkins", "Git", "GitLab", "GitHub Actions", "Maven", "Postman"]
+    },
+    {
+      "category": "Testing & Quality",
+      "items": ["JUnit 5", "Mockito", "TDD"]
+    },
+    {
+      "category": "Project Management",
+      "items": ["Jira", "ClickUp", "Slack"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "EADN",
+      "role": "Java Fullstack Developer",
+      "location": "Algeria",
+      "startDate": "2025-02",
+      "endDate": "Present",
+      "highlights": [
+        "Develop enterprise-level platforms and web portals for multiple government clients",
+        "Deliver comprehensive ERP solutions with distinct modules for HR, logistics, inventory management, and BOM",
+        "Implemented solutions for several ministries, including the Ministry of Tourism and Culture"
+      ],
+      "tech": ["Java EE", "JSF", "PrimeFaces", "JavaScript", "AJAX"]
+    },
+    {
+      "company": "Algerian Ministry of Finance",
+      "role": "Fullstack Java Developer",
+      "location": "Algiers, Algeria",
+      "startDate": "2024-12",
+      "endDate": "2025-03",
+      "highlights": [
+        "Developed internal web application solutions using Spring Boot to build a robust, scalable, secure backend infrastructure",
+        "Worked across the full stack from database to UI, integrating secure OAuth2-based authentication"
+      ],
+      "tech": ["Java 18", "Spring Boot 3", "Spring Security (OAuth2)", "JPA/Hibernate", "React (TS)", "PostgreSQL", "PL/SQL", "Postman", "Maven", "Docker"]
+    },
+    {
+      "company": "Teletic",
+      "role": "Fullstack Java Developer",
+      "location": "Algiers, Algeria",
+      "startDate": "2024-02",
+      "endDate": "2024-11",
+      "highlights": [
+        "Developed a commerce platform for phone accessories using Spring Boot",
+        "Built a robust, scalable, and secure backend infrastructure"
+      ],
+      "tech": ["Java 18", "Spring Boot 3", "Spring Security (OAuth2)", "JPA/Hibernate", "React (TS)", "Oracle", "PL/SQL", "Postman", "Maven", "Docker", "Jenkins", "ClickUp"]
+    },
+    {
+      "company": "Teletic",
+      "role": "Java Backend Developer",
+      "location": "Algiers, Algeria",
+      "startDate": "2023-11",
+      "endDate": "2024-11",
+      "highlights": [
+        "Developed and optimized REST APIs for a Topup solution handling 40k+ transactions per day",
+        "Wrote technical documentation for the backend services"
+      ],
+      "tech": ["Java 18", "Spring Boot 3", "Spring Security (OAuth2)", "JPA/Hibernate", "Angular 15", "Oracle", "PL/SQL", "Postman", "Maven", "Docker", "Jenkins"]
+    },
+    {
+      "company": "Freelancer",
+      "role": "Java Desktop Developer",
+      "location": "Tiaret, Algeria",
+      "startDate": "2021-01",
+      "endDate": "Present",
+      "highlights": [
+        "Developed a desktop application for a gym management system using Java Swing and JavaFX",
+        "Integrated the application with MySQL and Firebase"
+      ],
+      "tech": ["Java", "Swing", "JavaFX", "MySQL", "Firebase"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Government ERP Portals (EADN)",
+      "description": "Enterprise-level web portals and ERP modules built for multiple Algerian government clients, including the Ministry of Tourism and Culture, covering HR, logistics, inventory management, and BOM.",
+      "tech": ["Java EE", "JSF", "PrimeFaces", "JavaScript", "AJAX"],
+      "githubUrl": "",
+      "liveUrl": "",
+      "highlights": [
+        "Distinct modules for human resources, logistics, and inventory management",
+        "Delivered to several government ministries in production"
+      ]
+    },
+    {
+      "name": "Topup REST API Platform",
+      "description": "High-throughput REST API backend for a mobile Topup solution processing over 40,000 transactions per day.",
+      "tech": ["Java 18", "Spring Boot 3", "Spring Security (OAuth2)", "JPA/Hibernate", "Angular 15", "Oracle", "Docker", "Jenkins"],
+      "githubUrl": "",
+      "liveUrl": "",
+      "highlights": [
+        "Optimized REST APIs for 40k+ daily transactions",
+        "Secured with Spring Security and OAuth2",
+        "Full technical documentation for the API"
+      ]
+    },
+    {
+      "name": "Item Transfer & Delivery Platform",
+      "description": "Web platform connecting individuals needing item transfers with vehicle owners offering delivery services, streamlining communication, delivery tracking, and vehicle management.",
+      "tech": ["PHP", "MySQL", "Bootstrap", "jQuery"],
+      "githubUrl": "",
+      "liveUrl": "",
+      "highlights": [
+        "Built the full back-end with PHP and MySQL",
+        "Responsive, dynamic front-end with Bootstrap and jQuery"
+      ]
+    },
+    {
+      "name": "Gym Management Desktop App",
+      "description": "Desktop application for managing gym operations, built as a freelance project.",
+      "tech": ["Java", "Swing", "JavaFX", "MySQL", "Firebase"],
+      "githubUrl": "",
+      "liveUrl": "",
+      "highlights": [
+        "Java Swing and JavaFX desktop interface",
+        "Data persistence with MySQL and Firebase integration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Ibn Khaldoun University",
+      "degree": "Master's Degree",
+      "field": "Software Engineering",
+      "startDate": "2017",
+      "endDate": "2019",
+      "details": "Simulated an autonomous e-commerce agent using Java JADE to automate buying and selling. Used the DEVS Suite simulator for system modeling and proposed an approach for transforming UML diagrams into DEVS Suite, enhancing agent-based system simulations. Demonstrated skills in multi-agent systems, model transformation, and simulation tools."
+    },
+    {
+      "school": "Ibn Khaldoun University",
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "startDate": "2014",
+      "endDate": "2017",
+      "details": "Developed a web platform connecting individuals needing item transfers with vehicle owners offering delivery services. Built the back-end with PHP and MySQL and the front-end using Bootstrap and jQuery for responsive design and dynamic interactions."
+    }
+  ],
+  "certifications": []
+}
